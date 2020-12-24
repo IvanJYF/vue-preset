@@ -1,0 +1,40 @@
+// 颜色定义规范
+$color-background: #f2f7fa;
+$color-white: #fff;
+$color-menu: #353b4c;
+$color-menu-d: #42495c;
+$color-theme : #4e9bf5;
+$color-theme-d : #76b0f4;
+$color-theme-light : #f2f7fa;
+$color-text : #333333;
+$color-text-d : #666666;
+$color-warn: #E6A23C;
+$color-danger: #F56C6C;
+$color-success: #40c46a;
+$color-border: #EBEEF5;
+
+//字体定义规范
+$font-size-small-s : 10px;
+$font-size-small : 12px;
+$font-size-medium : 14px;
+$font-size-medium-x : 16px;
+$font-size-large : 18px;
+$font-size-large-x : 22px;
+$font-size-large-xx : 24px;
+$font-size-large-xxx : 26px;
+
+//头部高度和菜单栏宽度
+$headerBarH: 70px;
+$menuBarWidth: 200px;
+
+:export {
+	// menuText: $menuText;
+	// menuActiveText: $menuActiveText;
+	// subMenuActiveText: $subMenuActiveText;
+	// menuBg: $menuBg;
+	// menuHover: $menuHover;
+	// subMenuBg: $subMenuBg;
+	// subMenuHover: $subMenuHover;
+	// sideBarWidth: $sideBarWidth;
+	// menuColor: $menuBg
+}

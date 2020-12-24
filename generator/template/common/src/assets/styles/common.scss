@@ -1,0 +1,38 @@
+@import "variable.scss";
+html,body,#app{
+  width: 100%;
+  height: 100%;
+}
+/* 定位 */
+.pull-relative{
+  position: relative;
+}
+.pull-absolute{
+  position: absolute;
+}
+.pull-fixed{
+  position: fixed;
+}
+/* 文本对齐 */
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+.text-left{
+  text-align: left;
+}
+// 边距
+.margin-b10 {
+  margin-bottom: 10px;
+}
+.margin-b20{
+	margin-bottom: 20px;
+}
+.margin-t10 {
+  margin-top: 10px;
+}
+.margin-L10{
+  margin-left: 10px;
+}
