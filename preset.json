@@ -14,10 +14,6 @@
         }
     },
 
-    "configs": {
-
-    },
-
     "router": true,
 
     "vuex": false,
